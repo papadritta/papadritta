@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blockchain projects**
 
-- 🌱 I’m currently learning **Bash (Unix shell)**
+- 🌱 I’m currently learning **Bash (Unix shell), Kubernetes, Terraform**
 
 - 💬 Ask me about **Blockchain Projects & nodes operation**
 
