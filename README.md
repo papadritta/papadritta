@@ -18,7 +18,7 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=papadritta&show_icons=true&theme=vision-friendly-dark)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papadritta&show_icons=true&theme=midnight-purple)](https://github.com/papadritta/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-one-woad-69.vercel.app/api?username=papadritta&show_icons=true&theme=midnight-purple)](https://github.com/papadritta/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
