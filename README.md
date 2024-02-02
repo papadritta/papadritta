@@ -1,4 +1,16 @@
-![MasterHead](https://cdn.dribbble.com/users/106600/screenshots/2156764/media/926501fadcd7a68dc3a30ab39dd5edea.gif)
+<p align="center">
+  <img src="https://github.com/papadritta/papadritta/assets/90826754/fac08637-177a-4182-9457-19e0608aa563" alt="MasterHead"/>
+</p>
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Kale</h1>
 <h3 align="center">A passionate backend and Web3 developer, exploring blockchain technologies</h3>
 <img  align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding">
