@@ -1,15 +1,15 @@
 ![MasterHead](https://cdn.dribbble.com/users/106600/screenshots/2156764/media/926501fadcd7a68dc3a30ab39dd5edea.gif)
 <h1 align="center">Hi 👋, I'm Kale</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate backend and Web3 developer, exploring blockchain technologies</h3>
 <img  align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding">
 
 <p align="left"> <a href="https://twitter.com/papadritta" target="blank"><img src="https://img.shields.io/twitter/follow/papadritta?logo=twitter&style=for-the-badge" alt="papadritta" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain projects**
 
-- 🌱 I’m currently learning **Bash (Unix shell), Kubernetes, Terraform**
+- 🌱 I’m currently learning **Solidity, Bash (Unix shell), Kubernetes, Terraform**
 
-- 💬 Ask me about **Blockchain Projects & nodes operation**
+- 💬 Ask me about **Blockchain Projects, Web3 Development, Node Operations**
 
 - 📫 How to reach me **papadritta@gmail.com**
 
