@@ -27,6 +27,9 @@
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   <a href="https://curl.se/" target="_blank" rel="noreferrer"> <img src="https://curl.se/logo/curl-logo.svg" alt="curl" width="40" height="40"/> </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
+  <a href="https://openzeppelin.com/" target="_blank" rel="noreferrer"> <img src="https://www.openzeppelin.com/hubfs/raw_assets/public/oz_2022/images/homepage/openzeppelin_logo.svg" alt="openzeppelin" width="40" height="40"/> </a>
+  <a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://remix-project.org/static/media/remix-logo.492b26c57aa2522a31e26f9f83e1c973.svg" alt="remix" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
