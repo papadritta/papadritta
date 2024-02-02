@@ -1,35 +1,25 @@
-<p align="center">
-  <img src="https://github.com/papadritta/papadritta/assets/90826754/fac08637-177a-4182-9457-19e0608aa563" alt="MasterHead"/>
-</p>
+
+![hello, I am Kale](https://github.com/papadritta/papadritta/assets/90826754/9762a147-bb17-47f6-b0a0-c9698e24061f)
 
 
+<h2 align="left">A passionate backend and Web3 developer, exploring blockchain technologies</h2>
 
 
+#### - 🔭 I’m currently working on **Blockchain projects**
 
+#### - 🌱 I’m currently learning **Solidity, Bash (Unix shell), Kubernetes, Terraform**
 
+#### - 💬 Ask me about **Blockchain Projects, Web3 Development, Node Operations**
 
-
-
-
-<h1 align="center">Hi 👋, I'm Kale</h1>
-<h3 align="center">A passionate backend and Web3 developer, exploring blockchain technologies</h3>
-<img  align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding">
-
-<p align="left"> <a href="https://twitter.com/papadritta" target="blank"><img src="https://img.shields.io/twitter/follow/papadritta?logo=twitter&style=for-the-badge" alt="papadritta" /></a> </p>
-
-- 🔭 I’m currently working on **Blockchain projects**
-
-- 🌱 I’m currently learning **Solidity, Bash (Unix shell), Kubernetes, Terraform**
-
-- 💬 Ask me about **Blockchain Projects, Web3 Development, Node Operations**
-
-- 📫 How to reach me **papadritta@gmail.com**
+#### - 📫 How to reach me **papadritta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/papadritta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="papadritta" height="30" width="40" /></a>
-<a href="https://teletype.in/@papadritta" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90826754/200492703-f46e055c-8670-4768-a443-a9ee43648d24.png" height="35" width="80" /><a>
-<a href="https://discord.gg/papadritta#9980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="papadritta#9980" height="40" width="40" /></a>
+
+<p align="lift"> <a href="https://twitter.com/papadritta" target="_blank"><img src="https://img.shields.io/twitter/follow/papadritta" alt="Follow @papadritta on Twitter"/></a> </p>
+<p align="left"> <a href="https://github.com/papadritta" target="blank"><img src="https://img.shields.io/github/followers/papadritta" alt="papadritta" /></a> </p>
+<a href="https://teletype.in/@papadritta" target="blank"><img align="center" src="https://img.shields.io/badge/Follow_%20@Teletype-8A2BE2" alt="Follow @papadritta on Teletype" /></a> </p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
