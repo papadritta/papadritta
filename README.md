@@ -17,8 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/papadritta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="papadritta" height="30" width="40" /></a>
 <a href="https://teletype.in/@papadritta" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90826754/200492703-f46e055c-8670-4768-a443-a9ee43648d24.png" height="35" width="80" /><a>
-<a href="https://medium.com/papadritta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="papadritta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/papadritta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="papadritta" height="40" width="40" /></a>
 <a href="https://discord.gg/papadritta#9980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="papadritta#9980" height="40" width="40" /></a>
 </p>
 
