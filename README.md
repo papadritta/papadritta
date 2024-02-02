@@ -5,6 +5,7 @@
 <h2 align="left">A passionate backend and Web3 developer, exploring blockchain technologies</h2>
 
 
+
 #### - 🔭 I’m currently working on **Blockchain projects**
 
 #### - 🌱 I’m currently learning **Solidity, Bash (Unix shell), Kubernetes, Terraform**
@@ -12,6 +13,7 @@
 #### - 💬 Ask me about **Blockchain Projects, Web3 Development, Node Operations**
 
 #### - 📫 How to reach me **papadritta@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +23,14 @@
 <a href="https://teletype.in/@papadritta" target="blank"><img align="center" src="https://img.shields.io/badge/Follow_%20@Teletype-8A2BE2" alt="Follow @papadritta on Teletype" /></a> </p>
 
 </p>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=papadritta&show_icons=true&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papadritta&show_icons=true&theme=midnight-purple)](https://github.com/papadritta/github-readme-stats)
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -49,4 +59,5 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
+
 
