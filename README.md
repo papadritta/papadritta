@@ -2,7 +2,7 @@
 
 <p align="right"> <a href="https://github.com/papadritta" target="blank"><img src="https://img.shields.io/github/followers/papadritta" alt="papadritta" /></a>
   
-<h1 align="left">A passionate backend and Web3 developer, exploring blockchain technologies ///</h1>
+<h2 align="left">A passionate backend and Web3 developer, exploring blockchain technologies</h2>
 
 > #### - 🔭 I’m currently working on **Blockchain projects**
 > #### - 🌱 I’m currently learning **Solidity, Bash (Unix shell), Kubernetes, Terraform**
@@ -10,7 +10,7 @@
 > #### - 📫 How to reach me **[e-mail](papadritta@gmail.com)**
 
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <a href="https://twitter.com/papadritta" target="_blank"><img src="https://img.shields.io/twitter/follow/papadritta" alt="Follow @papadritta on Twitter"/></a>
 <p align="left"> <a href="https://teletype.in/@papadritta" target="blank"><img src="https://img.shields.io/badge/Follow_%20@Teletype-8A2BE2" alt="Follow @papadritta on Teletype" /></a>
@@ -21,7 +21,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats-one-woad-69.vercel.app/api?username=papadritta&show_icons=true&theme=midnight-purple)](https://github.com/papadritta/github-readme-stats)
 
 
-<h2 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
