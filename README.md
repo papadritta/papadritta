@@ -7,7 +7,7 @@
 > #### - 🔭 I’m currently working on **Blockchain projects**
 > #### - 🌱 I’m currently learning **Solidity, Bash (Unix shell), Kubernetes, Terraform**
 > #### - 💬 Ask me about **Blockchain Projects, Web3 Development, Node Operations**
-> #### - 📫 How to reach me **[e-mail](papadritta@gmail.com)**
+> #### - 📫 How to reach me **<a href="mailto:papadritta@gmail.com">e-mail</a>**
 
 
 <h3 align="left">Connect with me:</h3>
