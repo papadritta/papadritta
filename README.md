@@ -66,3 +66,4 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/26ffc49b-3535-4ee9-b7b5-92675a5cd9a0" alt="Linux" width="100" height="100"/> </a>
 </p>
 
+![Ending](https://github.com/papadritta/papadritta/assets/90826754/45b40304-cfd8-4aa1-a6fe-61b607398f17)
