@@ -23,29 +23,43 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://curl.se/" target="_blank" rel="noreferrer"> <img src="https://curl.se/logo/curl-logo.svg" alt="curl" width="40" height="40"/> </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
-  <a href="https://openzeppelin.com/" target="_blank" rel="noreferrer"> <img src="https://www.openzeppelin.com/hubfs/raw_assets/public/oz_2022/images/homepage/openzeppelin_logo.svg" alt="openzeppelin" width="40" height="40"/> </a>
-  <a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://remix-project.org/static/media/remix-logo.492b26c57aa2522a31e26f9f83e1c973.svg" alt="remix" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
+  <!-- 1. Programming Languages -->
+  <strong>Programming Languages</strong><br>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/c9c17e60-3185-4de6-8a2b-3fc0d98051d2" alt="PHP" width="100" height="100"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/52817e98-c83e-4116-a7af-6a1b5621d99c" alt="Rust" width="100" height="100"/> </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/087b747a-7f59-4144-9525-72b6f2508ebc" alt="Go" width="100" height="100"/> </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/82aa15af-9f9f-4541-9f1d-ef6feb1717e5" alt="Solidity" width="100" height="100"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/37866420-3580-4506-8616-61a181a1d5a5" alt="Python" width="100" height="100"/> </a>
 
+  <!-- 2. Cloud Services -->
+  <strong>Cloud Services</strong><br>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/c3f4e117-37b1-4943-8df0-5e66a0201406" alt="AWS" width="100" height="100"/> </a>
+  <a href="https://www.ovh.com" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/312c228f-b001-401a-8565-1f6e0fc47c7f" alt="OVH" width="100" height="100"/> </a>
+  <a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/ddba60d3-3476-4346-870f-1531747da4bb" alt="Hetzner" width="100" height="100"/> </a>
+
+  <!-- 3. Development Tools -->
+  <strong>Development Tools</strong><br>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/aff94983-d84b-46f5-894f-45ff46e90ec4" alt="Docker" width="100" height="100"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/ff441b37-3f00-4240-85d8-21d684c3daba" alt="Kubernetes" width="100" height="100"/> </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/2af1ee2f-046a-4fea-8df0-bec50df21764" alt="Grafana" width="100" height="100"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/ba7f7ce6-62dc-40d0-b395-a5c4eb034a61" alt="Node.js" width="100" height="100"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/91cb10e2-8e1e-4dd3-a987-f78cee22695e" alt="React" width="100" height="100"/> </a>
+  <a href="https://openzeppelin.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/5e62a13b-d00e-4587-a026-d233a73a993d" alt="OpenZeppelin" width="100" height="100"/> </a>
+  <a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/2ea53784-1771-4a57-ac8b-8a45c8aa4820" alt="Remix" width="100" height="100"/> </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/dfa6c8a7-d914-4429-9045-032f03fbb782" alt="Prometheus" width="100" height="100"/> </a>
+
+  <!-- 4. Scripting -->
+  <strong>Scripting</strong><br>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/7e403362-d0b7-470a-965f-92ce5c62f25e" alt="Bash" width="100" height="100"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/76d9b13a-48b3-415c-b8a9-205f67a2df55" alt="JavaScript" width="100" height="100"/> </a>
+  <a href="https://curl.se/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/d0210ca2-c4ea-4d0d-82a0-9f912b1494fa" alt="Curl" width="100" height="100"/> </a>
+
+  <!-- 5. Databases & Servers -->
+  <strong>Databases & Servers</strong><br>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/ca9e5ad4-cf24-4b01-8018-0afbb6dd9b82" alt="NGINX" width="100" height="100"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/4074e795-be97-40f1-849e-4c5f17a6660b" alt="PostgreSQL" width="100" height="100"/> </a>
+
+  <!-- 6. OS -->
+  <strong>OS</strong><br>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/26ffc49b-3535-4ee9-b7b5-92675a5cd9a0" alt="Linux" width="100" height="100"/> </a>
+</p>
