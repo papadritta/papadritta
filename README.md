@@ -13,7 +13,7 @@
 <p align="left">
 <p align="left"> <a href="https://twitter.com/papadritta" target="_blank"><img src="https://img.shields.io/twitter/follow/papadritta" alt="Follow @papadritta on Twitter"/></a>
 <p align="left"> <a href="https://github.com/papadritta" target="blank"><img src="https://img.shields.io/github/followers/papadritta" alt="papadritta" /></a>
-<p href="https://teletype.in/@papadritta" target="blank"><img align="center" src="https://img.shields.io/badge/Follow_%20@Teletype-8A2BE2" alt="Follow @papadritta on Teletype" /></a>
+<p align="left"> <a href="https://teletype.in/@papadritta" target="blank"><img src="https://img.shields.io/badge/Follow_%20@Teletype-8A2BE2" alt="Follow @papadritta on Teletype" /></a>
 </p>
 
 
