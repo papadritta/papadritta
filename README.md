@@ -5,7 +5,7 @@
 <h2 align="left">A passionate backend and Web3 developer, exploring blockchain technologies</h2>
 
 > #### - 🔭 I’m currently working on **Blockchain projects**
-> #### - 🌱 I’m currently learning **Solidity, Bash (Unix shell), Kubernetes, Terraform**
+> #### - 🌱 I’m currently learning **Solidity, Golang, Bash (Unix shell), Kubernetes, Terraform**
 > #### - 💬 Ask me about **Blockchain Projects, Web3 Development, Node Operations**
 > #### - 📫 How to reach me **<a href="mailto:papadritta@gmail.com">e-mail</a>**
 
