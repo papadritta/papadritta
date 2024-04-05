@@ -5,7 +5,7 @@
 <h2 align="left">A passionate backend and Web3 developer, exploring blockchain technologies</h2>
 
 > #### - 🔭 I’m currently working on **Blockchain projects**
-> #### - 🌱 I’m currently learning **TypeScript, Tailwind CSS, Next.js, Golang**
+> #### - 🌱 I’m currently learning **[TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), [Next.js](https://nextjs.org), [Golang](https://go.dev)**
 > #### - 💬 Ask me about **Blockchain Projects, Web3 Development, Node Operations**
 > #### - 📫 How to reach me **<a href="mailto:papadritta@gmail.com">e-mail</a>**
 
