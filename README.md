@@ -5,8 +5,9 @@
 <h2 align="left">A passionate backend and Web3 developer, exploring blockchain technologies</h2>
 
 > #### - 🔭 I’m currently working on **Blockchain projects**
-> #### - 🌱 I’m currently learning **[TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), [Next.js](https://nextjs.org), [Golang](https://go.dev)**
-> #### - 💬 Ask me about **Blockchain Projects, Web3 Development, Node Operations**
+> #### - 🌱 I’m 100% focused on learning **[Rust](https://www.rust-lang.org)** now, while continuing with **[TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), [Next.js](https://nextjs.org), [Golang](https://go.dev)**
+> #### - 🤝 Always on **the lookout for cool folks who are into Rust and want to build something awesome together**
+> #### - 💬 Hit me up about **Blockchain Projects, Web3 Development, Node Ops, or anything tech!**
 > #### - 📫 How to reach me **<a href="mailto:papadritta@gmail.com">e-mail</a>**
 
 
