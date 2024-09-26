@@ -4,8 +4,8 @@
   
 <h2 align="left">A passionate backend and Web3 developer, exploring blockchain technologies</h2>
 
-> #### - 🔭 I’m currently working on **Blockchain projects**
-> #### - 🌱 I’m 100% focused on learning **[Rust](https://www.rust-lang.org)** now, while continuing with **[TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), [Next.js](https://nextjs.org), [Golang](https://go.dev)**
+> #### - 🔭 Currently building high-performance blockchain solutions and operating validator nodes across multiple networks**
+> #### - 🌱 Expanding my expertise in **[Rust](https://www.rust-lang.org)** development, while continuing to work with **[TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), [Next.js](https://nextjs.org) and [Golang](https://go.dev)**
 > #### - 🤝 Always on **the lookout for cool folks who are into 🦀 Rust and want to build something awesome together**
 > #### - 💬 Hit me up about **Blockchain Projects, Web3 Development, Node Ops, or anything tech!**
 > #### - 📫 How to reach me **<a href="mailto:papadritta@gmail.com">e-mail</a>**
