@@ -18,7 +18,7 @@
 </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=papadritta&show_icons=true&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-my-stats.vercel.app?user=papadritta&theme=vision-friendly-dark)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats-tawny-ten-83.vercel.app/api?username=papadritta&show_icons=true&theme=midnight-purple)](https://github.com/papadritta/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
