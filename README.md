@@ -39,6 +39,7 @@
   <a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/ddba60d3-3476-4346-870f-1531747da4bb" alt="Hetzner" width="100" height="100"/> </a>
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/3cf8bab3-c8f4-4160-be16-8d1ac88e7f98" alt="Digital Ocean" width="100" height="100"/> </a>
   <a href="https://www.vultr.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/871fea84-5b46-4ae6-b879-05adaf4cdd60" alt="Vultr" width="100" height="100"/> </a>
+  <a href="https://www.vultr.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/cc3616b4-d6be-4462-9f9a-12dc95a00b13" alt="Vultr" width="100" height="100"/> </a>
 
   <!-- 3. Development Tools -->
   <strong>Development Tools</strong><br>
