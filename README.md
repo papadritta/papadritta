@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <a href="https://twitter.com/papadritta" target="_blank"><img src="https://img.shields.io/twitter/follow/papadritta" alt="Follow @papadritta on Twitter"/></a>
-<p align="left"> <a href="https://teletype.in/@papadritta" target="blank"><img src="https://img.shields.io/badge/Follow_@Teletype-8A2BE2" alt="Follow @papadritta on Teletype" /></a>
 </p>
 
 
