@@ -15,6 +15,12 @@
 <p align="left">
 <p align="left"> <a href="https://twitter.com/papadritta" target="_blank"><img src="https://img.shields.io/twitter/follow/papadritta" alt="Follow @papadritta on Twitter"/></a>
 </p>
+<p align="left">
+  <a href="https://discord.com/users/214964573059547136" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%40papadritta-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Chat with me on Discord"/>
+  </a>
+</p>
+
 
 
 [![GitHub Streak](https://github-readme-streak-my-stats.vercel.app?user=papadritta&theme=vision-friendly-dark)](https://git.io/streak-stats)
