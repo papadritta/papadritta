@@ -29,12 +29,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- 1. Programming Languages -->
-  <strong>Programming Languages</strong><br>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/c9c17e60-3185-4de6-8a2b-3fc0d98051d2" alt="PHP" width="100" height="100"/> </a>
+  <strong>Programming Languages</strong><br>  
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/52817e98-c83e-4116-a7af-6a1b5621d99c" alt="Rust" width="100" height="100"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/37866420-3580-4506-8616-61a181a1d5a5" alt="Python" width="100" height="100"/> </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/087b747a-7f59-4144-9525-72b6f2508ebc" alt="Go" width="100" height="100"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/82aa15af-9f9f-4541-9f1d-ef6feb1717e5" alt="Solidity" width="100" height="100"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/37866420-3580-4506-8616-61a181a1d5a5" alt="Python" width="100" height="100"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/papadritta/papadritta/assets/90826754/c9c17e60-3185-4de6-8a2b-3fc0d98051d2" alt="PHP" width="100" height="100"/> </a>
 
   <!-- 2. Cloud Services -->
   <strong>Cloud Services</strong><br>
