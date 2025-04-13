@@ -2,7 +2,7 @@
 
 <p align="right"> <a href="https://github.com/papadritta" target="blank"><img src="https://img.shields.io/github/followers/papadritta" alt="papadritta" /></a>
   
-<h2 align="left">A passionate 🦀 & 🐍 Web3 developer, exploring blockchain technologies</h2>
+<h2 align="left">A passionate 🦀 Web3 developer, exploring blockchain technologies</h2>
 
 > #### - 🔭 Currently building high-performance blockchain solutions and operating validator nodes across multiple networks
 > #### - 🌱 Expanding my expertise in **[Rust](https://www.rust-lang.org)** development, while continuing to work with **[TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), [Next.js](https://nextjs.org) and [Golang](https://go.dev)**
